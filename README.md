@@ -1,4 +1,4 @@
-# Ecommers Description : India Today is a weekly Indian English-language news magazine published by Living Media India Limited.
+# Ecommers
 
 Tech stack : HTML | CSS | JS | Browser Local Storage.
 
