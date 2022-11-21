@@ -7,3 +7,9 @@ Description : India Today is a weekly Indian English-language news magazine publ
 Tech stack : HTML | CSS | JS | Browser Local Storage.
 
 Feature : Sign up, Sign In, Sign Out, Navbar with Drop-down Menu, Dynamic Page, Button and Payment Page.
+![Screenshot (97)](https://user-images.githubusercontent.com/101590354/203092885-fa9272d8-712b-4606-b13f-a0f4b4d258c0.png)
+landing page of news website.
+
+![Screenshot (98)](https://user-images.githubusercontent.com/101590354/203092978-6c8652dc-5dff-4105-b17f-614c52e9cdca.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/101590354/203093002-64994457-26da-4f46-868e-c549d0a9761b.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/101590354/203093030-6ca8cc39-7301-4d34-9fff-937e3a829b6d.png)
